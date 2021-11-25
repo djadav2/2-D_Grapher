@@ -11,7 +11,7 @@ A simple Two-Dimensional graphing tool used to graph different line and polynomi
 **Runtime**
 
 Simply create a file that follows the format of the sample functions and graph away!
-Zoom in and out of the graph at your pleasure (in progress).
+Zoom in and out of the graph at your pleasure.
 
 **Sample**
 
